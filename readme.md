@@ -23,7 +23,8 @@ NPM package requires for this project are :
 
 ## Contribution Guidelines
 * This is a final product that is ready to be used.
-* [React Portfolio Git Hub](https://github.com/MiguelJerome/React-Portfolio)
+* [React Portfolio Git Hub](https://github.com/MiguelJerome/React-PortfolioNew)
+* [React Portfolio Deployment](https://enigmatic-ridge-82962.herokuapp.com/)
 
 ## Test Instructions
 * This React Portfolio works is also ready to be used.
