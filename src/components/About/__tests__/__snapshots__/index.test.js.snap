@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About component matches snapshot 1`] = `
+<DocumentFragment>
+  <section
+    class="my-5"
+  >
+    <h1
+      id="about"
+    >
+      Who am I?
+    </h1>
+    <img
+      alt="cover"
+      class="my-2"
+      src="MiguelJerome.png"
+      style="width: 100%;"
+    />
+    <div
+      class="my-2"
+    >
+      <p>
+        Hi, my name is Miguel Jerome, and I'm currently a student from the University of Ottawa full stack web development and also a student from La Cite collegiale of Ottawa studying Computer Programming.
+        <br />
+        I m pleased to show you my present work, and hopefully, you see the potential in me.
+        <br />
+        I speak French and English.
+        <br />
+      </p>
+    </div>
+  </section>
+</DocumentFragment>
+`;

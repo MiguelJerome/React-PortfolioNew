@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.38fe3e2f.css",
+    "main.js": "/React-Portfolio/static/js/main.b067fc23.js",
+    "static/js/787.b9ec5bb0.chunk.js": "/React-Portfolio/static/js/787.b9ec5bb0.chunk.js",
+    "static/media/runbuddy.png": "/React-Portfolio/static/media/runbuddy.3c53ef42853edfae90fa.png",
+    "static/media/MiguelJerome.png": "/React-Portfolio/static/media/MiguelJerome.24b6073e91a057a486d9.png",
+    "static/media/pleinAir.png": "/React-Portfolio/static/media/pleinAir.1ec229f9a65b4bcd6523.png",
+    "static/media/chocoChoco.png": "/React-Portfolio/static/media/chocoChoco.e9cf1b341ffe9ffa0501.png",
+    "static/media/familycardgame.png": "/React-Portfolio/static/media/familycardgame.12689c0f67bb20a046e5.png",
+    "static/media/tasknator.png": "/React-Portfolio/static/media/tasknator.1c36ac1780ab8aa95f6f.png",
+    "static/media/textEditor.png": "/React-Portfolio/static/media/textEditor.4ba4187e979fa6154bfb.png",
+    "index.html": "/React-Portfolio/index.html",
+    "main.38fe3e2f.css.map": "/React-Portfolio/static/css/main.38fe3e2f.css.map",
+    "main.b067fc23.js.map": "/React-Portfolio/static/js/main.b067fc23.js.map",
+    "787.b9ec5bb0.chunk.js.map": "/React-Portfolio/static/js/787.b9ec5bb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38fe3e2f.css",
+    "static/js/main.b067fc23.js"
+  ]
+}

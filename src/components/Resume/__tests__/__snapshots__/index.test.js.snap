@@ -1,0 +1,147 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About component matches snapshot 1`] = `
+<DocumentFragment>
+  <section
+    class="my-5"
+  >
+    <h1
+      id="about"
+    >
+      Who am I?
+    </h1>
+    <img
+      alt="cover"
+      class="my-2"
+      src="MiguelJerome.png"
+      style="width: 100%;"
+    />
+    <div
+      class="my-2"
+    >
+      <p>
+        Hi, my name is Miguel Jerome, and I'm currently a student from the University of Ottawa full stack web development and also a student from La Cite collegiale of Ottawa studying Computer Programming.
+        <br />
+        I m pleased to show you my present work, and hopefully, you see the potential in me.
+        <br />
+        I speak French and English.
+        <br />
+      </p>
+    </div>
+  </section>
+</DocumentFragment>
+`;
+
+exports[`Resume component matches snapshot 1`] = `
+<DocumentFragment>
+  <section
+    class="my-5"
+  >
+    <br />
+    <h1
+      id="resume"
+    >
+      Resume
+    </h1>
+    <div
+      class="my-2"
+    >
+      <p>
+        <span>
+          Download my 
+          <a
+            href="https://my.indeed.com/p/miguelj-ci3ud34"
+          >
+            resume
+          </a>
+        </span>
+        <br />
+        <br />
+      </p>
+      <h2>
+        Front-end Profiencies
+      </h2>
+      <ul
+        class="listSkill"
+      >
+        <li>
+          HTML
+        </li>
+        <li>
+          CSS
+        </li>
+        <li>
+          JavaScript
+        </li>
+        <li>
+          JQuery
+        </li>
+        <li>
+          responsive design
+        </li>
+        <li>
+          React
+        </li>
+        <li>
+          Bootstrap
+        </li>
+      </ul>
+      <br />
+      <br />
+      <h2>
+        Back-end Profiencies
+      </h2>
+      <ul
+        class="listSkill"
+      >
+        <li>
+          Api
+        </li>
+        <li>
+          Node
+        </li>
+        <li>
+          Insomnia
+        </li>
+        <li>
+          Postman
+        </li>
+        <li>
+          MSQL,Sequelize
+        </li>
+        <li>
+          Express
+        </li>
+        <li>
+          Heroku
+        </li>
+        <li>
+          Handlebar
+        </li>
+        <li>
+          MongoDB, Mongoose, NoSQL
+        </li>
+        <li>
+          C++
+        </li>
+        <li>
+          C#
+        </li>
+        <li>
+          Java
+        </li>
+        <li>
+          PWA
+        </li>
+        <li>
+          GitHub
+        </li>
+        <li>
+          WPF
+        </li>
+      </ul>
+      <p />
+    </div>
+  </section>
+</DocumentFragment>
+`;
