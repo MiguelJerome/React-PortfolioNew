@@ -53,6 +53,16 @@ function Portfolio() {
         <a href="https://github.com/MiguelJerome/lab7">
         <h4 class ="tilteProject">Choco Choco GitHub</h4>
          </a>
+
+
+         <a href="https://cryptic-stream-92735.herokuapp.com/">
+            <section class="WhoYaGot">
+            <h4 class ="tilteProject">Who Ya Got Deployed</h4>
+            </section>
+        </a>
+        <a href="https://github.com/MiguelJerome/WhoYaGot-Heroku-Deploy">
+        <h4 class ="tilteProject">Who Ya Got GitHub</h4>
+         </a>
     </section>
   );
 }

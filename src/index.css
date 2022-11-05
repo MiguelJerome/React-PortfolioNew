@@ -451,6 +451,22 @@ a {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+.WhoYaGot
+{
+  height: 50rem;;
+  width: 100rem;
+  margin-left: 0px;
+  margin-bottom: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  background-image: url(../src/assets/cover/ScreenshotPreview1.png);
+  background-size: cover;
+  justify-content:flex-start;
+  align-content: flex-end; 
+  z-index: 9999;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 .listSkill li
 {
   color: #fff;
